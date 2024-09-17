@@ -1,5 +1,5 @@
-## eslint-config 🩵
+### 📦 Install
 
-```
+```bash
 npm i @1eeyerin/eslint-config
 ```
